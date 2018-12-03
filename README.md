@@ -9,3 +9,4 @@ One for taking that backup and making it the current save.
 Useful for if you want to easily keep your save, even after you die.
 
 
+Made with Linux/Ubuntu in mind. Not sure if it will work on other operating systems.
